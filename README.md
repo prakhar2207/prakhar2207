@@ -6,6 +6,11 @@
 💡 Focused on solving real-world problems using data-driven approaches  
 
 ---
+<p align="center">
+<img width="700" height="230" alt="1" src="https://github.com/user-attachments/assets/419d968a-7212-4ec2-aad6-6a0c75766bca" />
+
+
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+NLP+%7C+Generative+AI;Data+Analytics+%7C+Visualization;Building+Real-world+AI+Solutions" />
@@ -81,16 +86,19 @@ Actively seeking opportunities to apply skills in real-world projects and intern
 <b>Tech Stack:</b> Python, Pandas, NumPy, scikit-learn, Streamlit <br>
 <b>GitHub Repo:"https://github.com/prakhar2207/Trader_EDA_Dashboard"
 </p>
+  
 ---
 
 ### 🤖 Delta AI Personal Assistant *(2025)*  
 - Built AI assistant for speech-based interaction  
 - Improved command recognition accuracy  
-- Designed modular processing pipelines  
+- Designed modular processing pipelines
+  
 <p>
 <b>Tech Stack:</b> Python, Pandas, NumPy, scikit-learn, Streamlit <br>
 <b>GitHub Repo:"https://github.com/prakhar2207/Delta-assistant" 
 </p>
+  
 ## 🏆 Certifications  
 
 - 🎓 DeepLearning.AI & Stanford — ML Specialization  
@@ -120,5 +128,5 @@ Actively seeking opportunities to apply skills in real-world projects and intern
 ---
 
 <p align="center">
-  <i>"Turning data into insights and ideas into intelligent solutions."</i>
+  <i>"Building machines that learn, so humans can achieve more."</i>
 </p>

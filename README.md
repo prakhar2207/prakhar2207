@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-<img width="700" height="230" alt="1" src="https://github.com/user-attachments/assets/419d968a-7212-4ec2-aad6-6a0c75766bca" />
+<img width="700" height="230" alt="Morgan Maxwel (3)" src="https://github.com/user-attachments/assets/691e9b1e-cbe8-4a51-bc65-89bf5e46a56d" />
 
 
 </p>

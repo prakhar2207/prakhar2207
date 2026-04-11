@@ -86,10 +86,8 @@ Actively seeking opportunities to apply skills in real-world projects and intern
 - Improved command recognition accuracy  
 - Designed modular processing pipelines  
 
-**Tech Stack:** Python, NumPy, Vosk, gTTS  
-**github Repo:** https://github.com/prakhar2207/Delta-assistant
----
-
+<sub><b>Tech Stack:</b> Python, Pandas, NumPy, scikit-learn, Streamlit</sub><br>
+<sub><b>GitHub Repo:</b> https://github.com/prakhar2207/Trader_EDA_Dashboard</sub>
 ## 🏆 Certifications  
 
 - 🎓 DeepLearning.AI & Stanford — ML Specialization  

@@ -79,7 +79,7 @@ Actively seeking opportunities to apply skills in real-world projects and intern
 
 <p>
 <b>Tech Stack:</b> Python, Pandas, NumPy, scikit-learn, Streamlit <br>
-<b>GitHub Repo:</b> "https://github.com/prakhar2207/Trader_EDA_Dashboard" <br>
+<b>GitHub Repo:"https://github.com/prakhar2207/Trader_EDA_Dashboard" 
 </p>
 ---
 

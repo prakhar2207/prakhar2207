@@ -25,27 +25,6 @@ Actively seeking opportunities to apply skills in real-world projects and intern
 
 ---
 
-## ⚡ Tech Stack  
-
-### 💻 Programming & Tools  
-- Python • SQL • C • Git • Streamlit  
-
-### 📊 Data Science & Analytics  
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering  
-- Statistical Analysis  
-- Model Evaluation  
-
-### 🤖 Machine Learning & AI  
-- Regression • Classification • Clustering  
-- Natural Language Processing (NLP)  
-- Generative AI  
-
-### 📚 Libraries  
-- Pandas • NumPy • Matplotlib  
-- scikit-learn • TensorFlow • PyTorch  
-- OpenAI Whisper
   ## ⚡ Tech Stack
 
 <p align="center">
@@ -99,7 +78,7 @@ Actively seeking opportunities to apply skills in real-world projects and intern
 - Delivered actionable insights  
 
 **Tech Stack:** Python, Pandas, NumPy, scikit-learn, Streamlit  
-
+**github Repo:** https://github.com/prakhar2207/Trader_EDA_Dashboard
 ---
 
 ### 🤖 Delta AI Personal Assistant *(2025)*  
@@ -108,7 +87,7 @@ Actively seeking opportunities to apply skills in real-world projects and intern
 - Designed modular processing pipelines  
 
 **Tech Stack:** Python, NumPy, Vosk, gTTS  
-
+**github Repo:** https://github.com/prakhar2207/Delta-assistant
 ---
 
 ## 🏆 Certifications  

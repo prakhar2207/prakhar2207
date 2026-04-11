@@ -85,9 +85,11 @@ Actively seeking opportunities to apply skills in real-world projects and intern
 - Built AI assistant for speech-based interaction  
 - Improved command recognition accuracy  
 - Designed modular processing pipelines  
-
-<sub><b>Tech Stack:</b> Python, Pandas, NumPy, scikit-learn, Streamlit</sub><br>
-<sub><b>GitHub Repo:</b> https://github.com/prakhar2207/Trader_EDA_Dashboard</sub>
+<p>
+<b>Tech Stack:</b> Python, Pandas, NumPy, scikit-learn, Streamlit <br>
+<b>GitHub Repo:</b> 
+<a href="https://github.com/prakhar2207/Trader_EDA_Dashboard">View Project</a>
+</p>
 ## 🏆 Certifications  
 
 - 🎓 DeepLearning.AI & Stanford — ML Specialization  

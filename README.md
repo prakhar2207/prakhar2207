@@ -77,8 +77,10 @@ Actively seeking opportunities to apply skills in real-world projects and intern
 - Predicted market trends using historical data  
 - Delivered actionable insights  
 
-**Tech Stack:** Python, Pandas, NumPy, scikit-learn, Streamlit  
-**github Repo:** https://github.com/prakhar2207/Trader_EDA_Dashboard
+<p>
+<b>Tech Stack:</b> Python, Pandas, NumPy, scikit-learn, Streamlit <br>
+<b>GitHub Repo:</b> "https://github.com/prakhar2207/Trader_EDA_Dashboard" <br>
+</p>
 ---
 
 ### 🤖 Delta AI Personal Assistant *(2025)*  

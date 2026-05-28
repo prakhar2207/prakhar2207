@@ -53,11 +53,6 @@ Actively seeking opportunities to apply skills in real-world projects and intern
 
 ## 💼 Experience  
 
-### 📊 Data Analytics Intern — Unessa Foundation *(Mar 2026)*  
-- Selected via Internshala based on performance and profile  
-- Worked on real-world data analytics tasks  
-
----
 
 ### 🤖 AI & ML Virtual Intern — AICTE (Edunet Foundation) *(Dec 2025 – Jan 2026)*  
 - Built **Lecture Voice to Notes Generator**  
